@@ -1,0 +1,26 @@
+{
+  "zombie_t1": "main_menu_texture/texture_perso_1.png",
+  "zombie_t2": "main_menu_texture/texture_perso_2.png",
+  "zombie_t3": "main_menu_texture/texture_perso_3.png",
+  "zombie_t4": "main_menu_texture/texture_perso_4.png",
+ 
+  "zombieG_t1": "zombie/zG_t1.gif",
+  "zombieD_t1": "zombie/zD_t1.gif",
+  "zombieG_t2": "zombie/zG_t2.gif",
+  "zombieD_t2": "zombie/zD_t2.gif",
+  "zombieG_t3": "zombie/zG_t3.gif",
+  "zombieD_t3": "zombie/zD_t3.gif",
+  "zombieG_t4": "zombie/zG_t4.gif",
+  "zombieD_t4": "zombie/zD_t4.gif",
+  
+  "zombieG_t1_turned": "zombie_turned/zG_t1_turned.gif",
+  "zombieD_t1_turned": "zombie_turned/zD_t1_turned.gif",
+  "zombieG_t2_turned": "zombie_turned/zG_t2_turned.gif",
+  "zombieD_t2_turned": "zombie_turned/zD_t2_turned.gif",
+  "zombieG_t3_turned": "zombie_turned/zG_t3_turned.gif",
+  "zombieD_t3_turned": "zombie_turned/zD_t3_turned.gif",
+  "zombieG_t4_turned": "zombie_turned/zG_t4_turned.gif",
+  "zombieD_t4_turned": "zombie_turned/zD_t4_turned.gif",
+
+  "vide": "vide.gif"
+}
